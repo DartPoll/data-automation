@@ -1,1 +1,1 @@
-print "hello other school"
+print "hello dartmouth"
